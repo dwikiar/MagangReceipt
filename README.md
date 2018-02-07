@@ -1,0 +1,2 @@
+# MagangReceipt
+Magang
